@@ -1,0 +1,24 @@
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    background: gainsboro;
+}
+
+div {
+    margin: 15px auto;
+    width: 50%;
+    background: darkgrey;
+    display: flex;
+    justify-items: center;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+}
+
+p {
+    padding: 5%;
+    font-size: 20px;
+    font-weight: 500;
+}
